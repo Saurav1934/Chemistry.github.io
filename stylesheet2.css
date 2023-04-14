@@ -1,0 +1,35 @@
+.logo{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    padding: 0px 0px;
+    margin-bottom: 0px;
+}
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+.section p{
+    text-align: center;
+    padding: 0px 0px;
+    margin-bottom: 0px;
+}
+.p{
+
+        text-align: center;
+      
+
+}
+nav li {
+    display: inline-block;
+    margin-left: 20px;
+  }
